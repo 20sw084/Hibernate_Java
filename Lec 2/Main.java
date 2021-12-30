@@ -41,7 +41,9 @@ public class Main {
 		
 		ud.setCurrentDate(new Date());
 		
-		FileInputStream fis=new FileInputStream("src/Mine.jpg");
+		sc=new Scanner(System.in);
+		String pic_loc=sc.next();
+		FileInputStream fis=new FileInputStream(pic_loc);
 		byte[] data=new byte[fis.available()];
 		fis.read(data);
 		ud.setProfilePic(data);
