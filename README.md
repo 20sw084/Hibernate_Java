@@ -24,6 +24,7 @@ Linking two table with Embeddable Annotation.
 One to One(Uni and Bi- Directional) Mapping between tables using Hibernate.
 
 # Lec 6:
+One to Many , Many to One Mappings with code to fetch the data.
 
 # Lec 7:
 
