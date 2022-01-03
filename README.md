@@ -30,7 +30,9 @@ One to Many, Many to One Mapping with code to fetch the data.
 Many to Many Mappings with code to rename made table with given column names.
 
 # Lec 8:
-
+Types of fetching data. LAZY(by default) and EAGER.
+LOAD Fetch type fetches the data from db slowly and gradually.
+EAGER Fetch Type fetches the data from db at once.
 
 # Lec 9:
 
