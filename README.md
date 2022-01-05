@@ -35,7 +35,7 @@ LOAD Fetch type fetches the data from db slowly and gradually.
 EAGER Fetch Type fetches the data from db at once.
 
 # Lec 9:
-
+Practical Work of Object States. Transient, Persistent, Detached, Removed.
 
 # Lec 10:
 
