@@ -36,15 +36,3 @@ EAGER Fetch Type fetches the data from db at once.
 
 # Lec 9:
 Practical Work of Object States. Transient, Persistent, Detached, Removed.
-
-# Lec 10:
-
-
-# Lec 11:
-
-
-# Lec 12:
-
-
-# Lec 13:
-
